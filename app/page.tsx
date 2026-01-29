@@ -92,7 +92,7 @@ const skillCategories = [
           <div className="flex gap-5 items-center">
             <a href="https://github.com/axitpatel1310" className="text-slate-400 hover:text-white transition-colors"><Github size={20}/></a>
             <a href="mailto:akky05727@gmail.com" className="text-slate-400 hover:text-white transition-colors"><Mail size={20}/></a>
-            <a href='Axit_patel_Europass.pdf'>
+            <a href='AXIT_PATEL_EUROPASS.pdf'>
             <button className="hidden md:block bg-slate-100 text-slate-950 px-4 py-1.5 rounded-full text-sm font-semibold hover:bg-white transition-all">
               Resume
             </button>
